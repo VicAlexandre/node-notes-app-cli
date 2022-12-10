@@ -11,9 +11,9 @@
 #### Yargs: used to implement and standardize how the user will interface with the application, using Yargs, the CRUD operations are properly identified, parsed and executed by calling handlers created by myself and located in the _handlers.js_ file.
 
 ### Basic usage example:
-`node app.js add --title="Title example" --body="Body example"
+` node app.js add --title="Title example" --body="Body example"
 ==================================
         Adding a new note!        
         Title: Title example      
         Content: Body example     
-==================================`
+================================== `
